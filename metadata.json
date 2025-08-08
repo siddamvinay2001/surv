@@ -1,0 +1,6 @@
+{
+  "name": "SURV Token",
+  "symbol": "SURV",
+  "description": "Reward token for SurveyToken survey dApp on Solana devnet.",
+  "image": "https://<your-host>/surv-logo.png"
+}
